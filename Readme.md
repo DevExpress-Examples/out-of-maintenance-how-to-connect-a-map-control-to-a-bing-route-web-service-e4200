@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/RouteProvider/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/RouteProvider/MainPage.xaml.vb))**
+* [MainPage.xaml.cs](./CS/RouteProvider/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RouteProvider/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to connect a map control to a Bing Route web service
 
 
