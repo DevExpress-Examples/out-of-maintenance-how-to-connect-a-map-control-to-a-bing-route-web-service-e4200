@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="RouteProvider.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-  <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">BC-E7-66-A6-8D-61-40-C5-DA-FF-C3-B0-98-1B-29-09-C6-63-A8-41</my:String>
-  </Application.Resources>
-</Application>
